@@ -1,12 +1,12 @@
 # D-Flat
 
-D-Flat TUI Library
+D-Flat Text User Interface Library
 
 Copyright (C) 2020 Ercan Ersoy
 
 This software licensed under CC0 1.0 Universal License.
 
-This software published under public domain originally.
+This software published as public domain originally.
 
 ## History
 
@@ -16,6 +16,6 @@ Alexey Frunze was added some changes in 2017 and 2018.
 
 ## Thanks
 
-Thanks to Al Stevens to author of D-Flat TUI Library.
+Thanks to Al Stevens to author of D-Flat Library.
 
 Thanks to Alexey Frunze to some contributions.
