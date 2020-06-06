@@ -10,6 +10,8 @@ This software published as public domain originally.
 
 ## History
 
+Al Stevens, was release first version of D-Flat in 1991.
+
 Al Stevens was release D-Flat 2.0 in 1995.
 
 Alexey Frunze was added some changes in 2017 and 2018.
