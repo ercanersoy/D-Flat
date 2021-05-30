@@ -2,19 +2,19 @@
 
 D-Flat Text User Interface Library
 
-Copyright (C) 2020 Ercan Ersoy
-
 This software licensed under CC0 1.0 Universal License.
 
 This software published as public domain originally.
 
 ## History
 
-Al Stevens, was release first version of D-Flat in 1991.
+Al Stevens, released first version of D-Flat in 1991.
 
-Al Stevens was release D-Flat 2.0 in 1995.
+Al Stevens released D-Flat 2.0 in 1995.
 
-Alexey Frunze was added some changes in 2017 and 2018.
+Alexey Frunze applied some changes to D-Flat in 2017 and 2018.
+
+Ercan Ersoy updates D-Flat since 2020.
 
 ## Thanks
 
